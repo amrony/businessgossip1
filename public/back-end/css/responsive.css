@@ -1,0 +1,38 @@
+
+@media only screen and (min-width: 500px) and (max-width: 960px) {
+    .singel-pp .London {
+        background-color: #fff !important;
+        width: 495px !important;
+        border: 1px solid #e0cfcf;
+        /* height: 102px !important; */
+        padding: 10px 0 0 0px;
+        margin: 0 0 0 63px !important;
+        /* margin: 25px 0px 5px -769px !important; */
+    }
+    .question{
+        margin: -52px 0 0 89px;
+    }
+    .singel-p .footer-classic {
+         max-height: none;
+        padding: 0 0;
+        background: #404044;
+        color: #aab2b9;
+    }
+
+    .ask-q {
+        clear: both;
+        display: block;
+        max-width: 1085px;
+        margin: 0px auto;
+        /* margin: 0 0 0 15px; */
+        padding-left: 0px;
+    }
+
+
+}
+@media only screen and (min-width: 692px) and (max-width: 960px) {
+
+}
+@media only screen and (min-width: 768px) and (max-width: 960px) {
+
+}
